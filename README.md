@@ -4,7 +4,7 @@
 ---
 
 ## 🌐 Conecta conmigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Bastian-Rojas-Lillo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/Bastian-Rojas-Lillo](https://www.linkedin.com/in/bastian-rojas-lillo-934979241/))
 
 ---
 
