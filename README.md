@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-¡Hola! Soy Bastian Rojas Lillo, estudiante de tercer año de Ingeniería en Informática y desarrollador front-end especializado en React con TypeScript, Redux y más. Tengo experiencia trabajando con una variedad de tecnologías como Vite, Docker, Python Django, Java para web, máquinas virtuales y Linux. Además, tengo habilidades en el uso de APIs como WebSocket, MQTT y RESTful, y aplico metodologías ágiles como Scrum.<br><br>En mi día a día utilizo librerías de animación como Framer Motion junto con frameworks de diseño como Tailwind CSS y Bootstrap. También realizo tareas de soporte técnico como ensamblar, desensamblar y mantener computadores. Soy proactivo, disfruto enfrentar nuevos desafíos y mejoro constantemente mis habilidades a través del aprendizaje.
+¡Hola! Soy estudiante de tercer año de Ingeniería en Informática y desarrollador front-end especializado en React con TypeScript, Redux y más. Tengo experiencia trabajando con una variedad de tecnologías como Vite, Docker, Python Django, Java para web, máquinas virtuales y Linux. Además, tengo habilidades en el uso de APIs como WebSocket, MQTT y RESTful, y aplico metodologías ágiles como Scrum.<br><br>En mi día a día utilizo librerías de animación como Framer Motion junto con frameworks de diseño como Tailwind CSS y Bootstrap. También realizo tareas de soporte técnico como ensamblar, desensamblar y mantener computadores. Soy proactivo, disfruto enfrentar nuevos desafíos y mejoro constantemente mis habilidades a través del aprendizaje.
 
 ---
 
@@ -47,9 +47,13 @@
 ---
 
 ## 📊 Estadísticas de GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R4aveen&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br>
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=R4aveen&theme=prussian&hide_border=false)<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R4aveen&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R4aveen&theme=prussian&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R4aveen&theme=prussian&hide_border=false" alt="Streak Stats" width="49%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4aveen&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="49%" />
+</div>
 
 ---
 
