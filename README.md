@@ -59,16 +59,6 @@ En mi día a día utilizo librerías de animación como **Framer Motion** junto 
 
 ---
 
-## 🏆 Logros:
-![Trophies](https://github-profile-trophy.vercel.app/?username=R4aveen&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## ✍️ Frase del Día:
-![Frase del Día](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ## 🔝 Contribuciones Destacadas:
 ![Contribuciones](https://github-contributor-stats.vercel.app/api?username=R4aveen&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
