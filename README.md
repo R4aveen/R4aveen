@@ -1,98 +1,113 @@
----
-# Perfil de GitHub - R4aveen
+<!-- Fondo animado con gradiente dinámico -->
+<div style="position:fixed;top:0;left:0;height:100vh;width:100vw;background:linear-gradient(-45deg,#0f172a,#1e293b,#334155,#475569);background-size:400% 400%;animation:gradient 15s ease infinite;z-index:-1"></div>
 
-## 💫 Sobre mí
-Soy estudiante de cuarto año de Ingeniería en Informática y desarrollador front-end apasionado por crear interfaces modernas e interactivas. Mi experiencia se centra en **React** y **TypeScript**, potenciando mis proyectos con herramientas como **Redux**, **Vite**, **Docker** y metodologías ágiles (**Scrum**). Además, he trabajado en el back-end con **Python Django** y **FastAPI**, lo que me permite tener un enfoque integral en cada desarrollo.
+<style>
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
 
-Me encanta experimentar con animaciones y microinteracciones usando **Framer Motion**, y optimizo mis diseños con frameworks como **Tailwind CSS** y **Bootstrap**. Mi trabajo abarca desde la solución de problemas técnicos en hardware hasta el diseño de experiencias digitales inmersivas y responsivas.
+<div align="center">
+  <!-- Animated SVG Background -->
+  <img src="https://raw.githubusercontent.com/R4aveen/R4aveen/main/assets/svg/wave.svg" alt="background" style="max-width:100%;height:auto">
+  
+  <!-- Profile Header con efecto tipográfico -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=¡Hola+%f0%9f%91%8b!+Soy+Bastián+Rojas;Desarrollador+FullStack;Apasionado+por+la+Innovación" alt="Header Typing Animation" />
+  
+  <!-- Social Badges -->
+  <p>
+    <a href="https://www.linkedin.com/in/bastian-rojas-lillo-934979241/">
+      <img src="https://img.shields.io/badge/-@bastianrojas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:contacto@r4aveen.dev">
+      <img src="https://img.shields.io/badge/-contacto@r4aveen.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://r4aveen.dev">
+      <img src="https://img.shields.io/badge/-Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    </a>
+  </p>
+</div>
 
----
+<!-- Sección "Sobre Mí" -->
+<div align="center" style="margin:2rem auto; padding:2rem; background: rgba(30, 41, 59, 0.85); border-radius:1rem; backdrop-filter: blur(10px); max-width:900px; box-shadow: 0 4px 30px rgba(0,0,0,0.2);">
+  <h2 style="color:#7DD3FC; border-bottom:2px solid #38BDF8; padding-bottom:0.5rem; display:inline-block;">💻 Sobre Mí</h2>
+  <p style="color:#94A3B8; line-height:1.6; margin:1rem auto; max-width:800px;">
+    Soy estudiante de 4° año de Ingeniería en Informática y desarrollador FullStack apasionado por crear experiencias digitales impactantes. 
+    Mi experiencia se centra en <strong style="color:#38BDF8;">React</strong> y <strong style="color:#38BDF8;">TypeScript</strong>, 
+    potenciando mis proyectos con herramientas como <strong style="color:#38BDF8;">Redux</strong>, <strong style="color:#38BDF8;">Vite</strong> y <strong style="color:#38BDF8;">Docker</strong>, 
+    además de metodologías ágiles (<strong>Scrum</strong>). También he trabajado en el back-end con <strong style="color:#38BDF8;">Python Django</strong> y <strong style="color:#38BDF8;">FastAPI</strong>, lo que me permite abordar desarrollos de forma integral. 
+    Me encanta experimentar con animaciones y microinteracciones usando <strong style="color:#38BDF8;">Framer Motion</strong>, y optimizo mis diseños con <strong style="color:#38BDF8;">Tailwind CSS</strong> y <strong style="color:#38BDF8;">Bootstrap</strong>.
+    <br><br>
+    <em>PD: Últimamente no tengo muchos commits, ya que trabajo con un perfil corporativo privado.</em>
+  </p>
+</div>
 
-## 🌐 Proyectos Destacados
+<!-- Tech Stack -->
+<div align="center">
+  <h3>🛠 Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nextjs,nodejs,py,django,postgres,git,docker,figma,aws,linux" alt="Tech Stack" style="height:40px">
+</div>
 
-### Rentapc.cl
-- **Descripción:** Plataforma interactiva para el envío de formularios de alquiler de computadores y generación de cotizaciones.
-- **Características Interactivas:**  
-  - **Animaciones y Transiciones Suaves:** Uso de microinteracciones que guían al usuario en cada paso.  
-  - **Diseño Responsivo y Accesible:** Interfaz adaptable que se ve impecable en móviles, tabletas y escritorio.  
-  - **Formularios Dinámicos:** Con feedback visual en tiempo real, lo que agiliza la comunicación y mejora la experiencia de usuario.
+<!-- Sección de Proyectos Destacados -->
+<div align="center" style="margin:2rem auto; max-width:1000px;">
+  <h2 style="color:#7DD3FC; border-bottom:2px solid #38BDF8; padding-bottom:0.5rem; display:inline-block;">🚀 Proyectos Destacados</h2>
+  <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:1.5rem; margin:2rem 0;">
+    <!-- Proyecto: Rentapc.cl -->
+    <div style="background: rgba(30, 41, 59, 0.85); padding:1.5rem; border-radius:1rem; transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='none'">
+      <h3 style="color:#7DD3FC; margin-bottom:1rem;">💻 Rentapc.cl</h3>
+      <p style="color:#94A3B8; margin-bottom:1rem;">Plataforma de alquiler de equipos con generación automática de cotizaciones.</p>
+      <ul style="color:#94A3B8; list-style:none; padding-left:0; margin-bottom:1rem;">
+        <li>✅ Animaciones y transiciones suaves</li>
+        <li>📱 Diseño responsivo y accesible</li>
+        <li>⚡ Formularios dinámicos con feedback en tiempo real</li>
+      </ul>
+      <a href="https://rentapc.cl" target="_blank">
+        <img src="https://img.shields.io/badge/-Visitar_Sitio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visitar Rentapc.cl">
+      </a>
+    </div>
+    <div style="background: rgba(30, 41, 59, 0.85); padding:1.5rem; border-radius:1rem; transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='none'">
+      <h3 style="color:#7DD3FC; margin-bottom:1rem;">🌐 Teloinvento.cl</h3>
+      <p style="color:#94A3B8; margin-bottom:1rem;">Plataforma integral para la administración y gestión en tiempo real de dispositivos IoT.</p>
+      <ul style="color:#94A3B8; list-style:none; padding-left:0; margin-bottom:1rem;">
+        <li>✨ Diseño moderno y adaptativo con efectos de hover</li>
+        <li>📊 Gestión interactiva de datos en tiempo real</li>
+        <li>🔄 Componentes reactivos y reutilizables</li>
+      </ul>
+      <a href="https://teloinvento.cl" target="_blank">
+        <img src="https://img.shields.io/badge/-Visitar_Sitio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visitar Teloinvento.cl">
+      </a>
+    </div>
+    <!-- Proyecto: Ecopc.cl -->
+    <div style="background: rgba(30, 41, 59, 0.85); padding:1.5rem; border-radius:1rem; transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='none'">
+      <h3 style="color:#7DD3FC; margin-bottom:1rem;">♻️ Ecopc.cl</h3>
+      <p style="color:#94A3B8; margin-bottom:1rem;">Proyecto en desarrollo para Ecoti, con integración de WordPress y React para una gestión dinámica de contenidos.</p>
+      <ul style="color:#94A3B8; list-style:none; padding-left:0; margin-bottom:1rem;">
+        <li>🛠️ Construido con WordPress y personalizaciones modernas</li>
+        <li>🔍 Experiencia de usuario optimizada con microinteracciones</li>
+        <li>📦 Integración de widgets y plugins interactivos</li>
+      </ul>
+      <a href="https://ecopc.cl" target="_blank">
+        <img src="https://img.shields.io/badge/-Próximamente-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Próximamente Ecopc.cl">
+      </a>
+    </div>
+  </div>
+</div>
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R4aveen&theme=aura&show_icons=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=7dd3fc&hide_border=true" width="400" alt="Estadísticas">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=R4aveen&theme=aura&background=0d1117&hide_border=true&ring=38bdf8&fire=7dd3fc&currStreakLabel=94a3b8" width="400" alt="Racha">
+</div>
 
-### Teloinvento.cl
-- **Descripción:** Sitio web integral enfocado en la tecnología y administración de IoTs.
-- **Características Interactivas:**  
-  - **Diseño Moderno y Adaptativo:** Experiencia visual dinámica orientada a profesionales, con transiciones y efectos de hover que resaltan cada sección.  
-  - **Integración de Soluciones IoT:** Manejo de datos en tiempo real y paneles interactivos que facilitan la gestión de dispositivos.  
-  - **Componentes Reactivos:** Implementación de componentes reutilizables con animaciones que mejoran la usabilidad y la interacción.
+## 🎯 Valor Agregado
 
-### Ecopc.cl
-- **Descripción:** Proyecto en desarrollo para Ecoti, próximamente en producción.
-- **Características Interactivas:**  
-  - **Construido con WordPress:** Combinando la robustez de WordPress con personalizaciones modernas para una experiencia visual dinámica.  
-  - **Experiencia del Usuario Optimizada:** Diseño intuitivo con microinteracciones que destacan la navegación y la gestión de contenidos.  
-  - **Integración de Widgets y Plugins Interactivos:** Herramientas adicionales que aportan funcionalidades avanzadas y experiencias enriquecedoras.
+- 🔧 **Soluciones FullStack:** Dominio completo del ciclo de desarrollo
+- 🚀 **Performance Optimization:** Mejora continua de rendimiento
+- 🎨 **UI/UX Expert:** Diseño centrado en el usuario
+- 🤖 **Automation:** Implementación de CI/CD
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/R4aveen/R4aveen/output/github-contribution-grid-snake-dark.svg" alt="Contribuciones" width="100%">
+</div>
 
-## 💻 Tecnologías
-
-### Lenguajes de Programación:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Desarrollo Front-End:
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Desarrollo Back-End:
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Sistemas de Gestión de Contenido (CMS):
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### Bases de Datos:
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
-
-### DevOps y Herramientas:
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Diseño y Análisis:
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Framer](https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
----
-
-## 🌐 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bastian-rojas-lillo-934979241/)
-
----
-
-## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R4aveen&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=R4aveen&theme=prussian&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R4aveen&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## Valor Agregado a mi Perfil
-
-Integrar proyectos como **Rentapc.cl**, **Teloinvento.cl** y **Ecopc.cl** demuestra no solo mi dominio técnico, sino también mi capacidad para:
-
-- **Resolver Problemas del Mundo Real:** Desarrollo soluciones interactivas y optimizadas que mejoran la experiencia del usuario y facilitan la gestión de sistemas complejos, desde el alquiler de equipos hasta la administración de dispositivos IoT y la gestión de contenidos en WordPress.
-- **Aplicar Metodologías Ágiles:** Uso prácticas modernas como Scrum y tecnologías de punta para garantizar entregas rápidas, eficientes y de alta calidad.
-- **Ofrecer Soluciones Integrales:** Mi experiencia abarca tanto el front-end como el back-end, lo que me permite diseñar y ejecutar proyectos de forma holística, adaptándome a los desafíos tecnológicos y generando experiencias inmersivas.
-
-Además, me esfuerzo por incorporar elementos interactivos (como animaciones y microinteracciones) en cada proyecto, haciendo que cada experiencia sea única, atractiva y memorable para el usuario.
-
----
-
-Esta actualización refleja mi compromiso con la innovación y la excelencia, posicionándome como un profesional versátil y orientado al detalle, listo para afrontar proyectos de alta complejidad y ofrecer experiencias digitales de alto impacto. ¿Qué te parece esta versión interactiva y mejorada?
