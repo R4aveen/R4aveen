@@ -1,5 +1,4 @@
 ---
-
 # Perfil de GitHub - R4aveen
 
 ## 💫 Sobre mí
@@ -7,7 +6,6 @@ Soy estudiante de cuarto año de Ingeniería en Informática y desarrollador fro
 
 Me encanta experimentar con animaciones y microinteracciones usando **Framer Motion**, y optimizo mis diseños con frameworks como **Tailwind CSS** y **Bootstrap**. Mi trabajo abarca desde la solución de problemas técnicos en hardware hasta el diseño de experiencias digitales inmersivas y responsivas.
 
-**Pd: Ultimamente no tengo muchos commit ya que trabajo con un perfil coorporativo el cual es privado**
 ---
 
 ## 🌐 Proyectos Destacados
@@ -96,3 +94,5 @@ Integrar proyectos como **Rentapc.cl**, **Teloinvento.cl** y **Ecopc.cl** demues
 Además, me esfuerzo por incorporar elementos interactivos (como animaciones y microinteracciones) en cada proyecto, haciendo que cada experiencia sea única, atractiva y memorable para el usuario.
 
 ---
+
+Esta actualización refleja mi compromiso con la innovación y la excelencia, posicionándome como un profesional versátil y orientado al detalle, listo para afrontar proyectos de alta complejidad y ofrecer experiencias digitales de alto impacto. ¿Qué te parece esta versión interactiva y mejorada?
