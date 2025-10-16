@@ -1,9 +1,3 @@
-<!-- ──────────────────────────────────────────────── -->
-<!--   🪶 R4aveen / README.md - versión profesional   -->
-<!-- ──────────────────────────────────────────────── -->
-
-[![Banner Cuervo Nórdico](https://i.imgur.com/jzLkRtL.jpeg)](https://i.imgur.com/SKzieEc.mp4)
-
 <h1 align="center">Bastián Rojas</h1>
 <h3 align="center">Desarrollador Full Stack · Ingeniero en Informática</h3>
 
