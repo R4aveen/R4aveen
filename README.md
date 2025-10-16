@@ -1,7 +1,8 @@
 <!-- 🌌 Fondo y encabezado -->
 <div align="center">
-  <img src="https://i.imgur.com/vU2xFzH.gif" alt="banner animado" width="100%" style="border-radius:8px;">
+  <img src="https://raw.githubusercontent.com/R4aveen/R4aveen/main/assets/images/banner.gif" alt="Banner Cuervo Nórdico" style="width:100%; max-height:300px; object-fit:cover;" />
 </div>
+
 
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#38BDF8;">Bastián Rojas</span></h1>
 <h3 align="center">💻 Desarrollador Full Stack | Ingeniero en Informática | Creador de soluciones escalables</h3>
