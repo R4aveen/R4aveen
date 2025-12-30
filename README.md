@@ -15,9 +15,9 @@
 
 ---
 
-## Sobre mí
+## Ingeniero en Informática Egresado 
 
-Ingeniero en Informática y **Desarrollador Full Stack**, apasionado por diseñar soluciones eficientes y escalables.  
+**Desarrollador Full Stack**, apasionado por diseñar soluciones eficientes y escalables.  
 Actualmente trabajo en **EcoPC**, desarrollando el **ERP corporativo Zentria**, junto con proyectos derivados como **RentaPC** y **EcoTI**.
 
 Experiencia en **Laravel 12**, **React**, **TypeScript**, **Redux**, **Vite**, **Tailwind CSS**, **Docker** y **JWT**, además de integraciones con **WooCommerce**, **Transbank** y **Getnet**.  
