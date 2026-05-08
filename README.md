@@ -1,5 +1,5 @@
 <h1 align="center">Bastián Rojas</h1>
-<h3 align="center">Desarrollador Full Stack · Ingeniero en Informática</h3>
+<h3 align="center">Software Engineer ✧ Frontend Lead & Full Stack</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bastian-rojas-lillo-934979241/">
@@ -15,51 +15,52 @@
 
 ---
 
-## Ingeniero en Informática Egresado 
+## ✦ Sobre mí
 
-**Desarrollador Full Stack**, apasionado por diseñar soluciones eficientes y escalables.  
-Actualmente trabajo en **EcoPC**, desarrollando el **ERP corporativo Zentria**, junto con proyectos derivados como **RentaPC** y **EcoTI**.
+**Ingeniero en Informática y Desarrollador Full Stack**, con un fuerte enfoque en arquitecturas escalables y *ownership* técnico. 
 
-Experiencia en **Laravel 12**, **React**, **TypeScript**, **Redux**, **Vite**, **Tailwind CSS**, **Docker** y **JWT**, además de integraciones con **WooCommerce**, **Transbank** y **Getnet**.  
-También manejo **Python Django** y **FastAPI**, lo que me permite abordar desarrollos de principio a fin.
+Actualmente lidero el desarrollo del **ERP corporativo Zentria** en **EcoPC**, automatizando procesos operativos críticos desde cero, además de gestionar las plataformas comerciales **RentaPC** y **EcoTI**. 
 
-> “Creo en el código limpio, las soluciones simples y la arquitectura bien pensada.”
+Me muevo ágilmente con **React, TypeScript, Node.js y Laravel 12**, integrando arquitecturas serverless y flujos de datos en **GCP** (Pub/Sub, Dataflow, Cloud Run). Cuando no estoy diseñando interfaces modulares o reduciendo la latencia de un dashboard IoT, probablemente me encuentres compilando el kernel o rompiendo (y arreglando) mis dotfiles en Arch Linux con Hyprland.
+
+> “El buen código es como un buen chiste: si tienes que explicarlo, no es tan bueno.”
 
 ---
 
-## Tech Stack
+## ✣ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,laravel,py,django,vite,tailwind,bootstrap,wordpress,git,docker,linux,postgres,aws,figma" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,laravel,py,vite,tailwind,docker,gcp,aws,linux,arch,postgres,figma" />
 </p>
 
 ---
 
-## Proyectos destacados
+## ➤ Proyectos destacados
 
-### [RentaPC.cl](https://rentapc.cl)
-Plataforma de arriendo de equipos con cotización automática, desarrollada desde cero con React.  
-- Formularios dinámicos con validación paso a paso  
-- Diseño adaptable y moderno  
-- Integración con APIs internas del ERP
+### ✹ Zentria ERP
+Sistema de gestión corporativo con arquitectura frontend modular.
+↠ Manejo integral de inventario, área comercial y RRHH con RBAC granular.
+↠ Design System propio y trazabilidad de equipos.
+↠ **Stack:** React, TypeScript, Redux Toolkit, Laravel 12.
+
+### ✹ FlowFi
+App móvil multiplataforma para la gestión inteligente de finanzas personales.
+↠ Sincronización en la nube y base de datos en tiempo real.
+↠ **Stack:** React Native, Supabase.
+
+### ✹ Snabbit / Teloinvento.cl
+Plataformas integrales para el monitoreo de dispositivos IoT en tiempo real.
+↠ Interacción de alta frecuencia con WebSockets y MQTT.
+↠ Optimización de consultas reduciendo latencia de ~200ms a ~30ms en InfluxDB.
+
+### ✹ RentaPC.cl & EcoTI.cl
+Ecosistema de plataformas de e-commerce y arriendo de equipos.
+↠ Cotización automática y formularios dinámicos con validación paso a paso.
+↠ Integración de pasarelas de pago (Transbank, Getnet) y optimización SEO.
 
 ---
 
-### [Teloinvento.cl](https://teloinvento.cl)
-Plataforma integral para la gestión de dispositivos IoT en tiempo real.  
-- Interacción en tiempo real con MQTT  
-- Componentes reutilizables y arquitectura modular  
-
----
-
-### [EcoTI.cl](https://ecoti.cl)
-E-commerce desarrollado en WordPress + WooCommerce, con integraciones de pago (Transbank, Getnet) y personalización total del tema Astra.  
-- Gestión técnica y comercial  
-- Optimización de rendimiento y SEO  
-
----
-
-## Estadísticas
+## ⁂ Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=R4aveen&show_icons=true&theme=aura&hide_border=true&title_color=38bdf8&text_color=94a3b8" width="400">
