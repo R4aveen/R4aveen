@@ -23,7 +23,7 @@ Actualmente lidero el desarrollo del **ERP corporativo Zentria** en **EcoPC**, a
 
 Me muevo ágilmente con **React, TypeScript, Node.js y Laravel 12**, integrando arquitecturas serverless y flujos de datos en **GCP** (Pub/Sub, Dataflow, Cloud Run). Cuando no estoy diseñando interfaces modulares o reduciendo la latencia de un dashboard IoT, probablemente me encuentres compilando el kernel o rompiendo (y arreglando) mis dotfiles en Arch Linux con Hyprland.
 
-> “El buen código es como un buen chiste: si tienes que explicarlo, no es tan bueno.”
+> “El buen código es como un buen chiste: si tienes que explicarlo, no es tan bueno aklsklaksa.”
 
 ---
 
