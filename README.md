@@ -8,7 +8,7 @@
   <a href="mailto:contacto@r4aveen.dev">
     <img src="https://img.shields.io/badge/Correo-DB4437?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://r4aveen.dev">
+  <a href="https://r4veen.site/">
     <img src="https://img.shields.io/badge/Portafolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
